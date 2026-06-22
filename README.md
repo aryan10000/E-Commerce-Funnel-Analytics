@@ -69,7 +69,7 @@ Conversion rate ranged only 6.44%–6.95% across all days of the week, suggestin
 1. Audit and reduce view-to-cart drop-off — 93.8% leakage is the primary revenue opportunity
 2. Deploy targeted campaigns in the 4AM–9AM window when purchase intent peaks
 3. Prioritize `electronics.smartphone` and appliances categories for ad spend and inventory
-4. Validate cart tracking infrastructure — 337K untracked cart events may be distorting funnel metrics
+4. Analyze direct checkout behavior and optimize "Buy Now" flows, as over 337K purchase sessions bypassed the cart stage.
 
 
 ## Author
