@@ -7,9 +7,18 @@ End-to-end funnel analysis on a real-world e-commerce dataset of **42.4 million 
 ## Dashboard Preview
 <img width="903" height="508" alt="Screenshot 2026-06-22 at 1 10 19 PM" src="https://github.com/user-attachments/assets/a512111c-74c6-4658-b326-711449922200" />
 
-
 ---
 
+## Dashboard Features
+- KPI cards for Sessions, Conversion Rate, Drop-off Rate, and Revenue
+- Funnel stage distribution analysis
+- Brand-level conversion performance
+- Category-level conversion performance
+- Hourly conversion and revenue trends
+- Daily conversion and revenue trends
+- Executive summary metrics for decision-making
+
+--- 
 
 ## Dataset
 - **Source:** [Kaggle - eCommerce behavior data from multi category store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data)
