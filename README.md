@@ -1,4 +1,4 @@
-# E-Commerce Funnel Analytic
+# E-Commerce Funnel Analytics
 
 End-to-end funnel analysis on a real-world e-commerce dataset of **42.4 million events** spanning October 2019. Built to answer: *how do individual browsing sessions convert across the view → cart → purchase funnel?*
 
